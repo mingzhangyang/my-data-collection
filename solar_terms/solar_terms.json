@@ -1,0 +1,462 @@
+{
+    "solar_terms": [
+      {
+        "chinese_name": "立春",
+        "english_name": "the Beginning of Spring",
+        "japanese_name": "立春 (りっしゅん)",
+        "korean_name": "입춘 (立春)",
+        "vietnamese_name": "Lập xuân",
+        "term_number": 1,
+        "solar_date": ["Feb.3", "Feb.4", "Feb.5"],
+        "astronomy": {
+          "sun_longitude": "315°",
+          "phenomenon": "太阳到达黄经315°，北半球白昼渐长，标志着春季的天文起点。"
+        },
+        "climate_features": {
+          "general": "白昼逐渐变长，气温回暖，人体血液代谢旺盛。",
+          "regional_variation": "黄河流域仍处寒冬，长江流域开始冰雪消融。"
+        },
+        "health_tips": "少吃酸性食物，养生以养肝护肝为主。",
+        "description": "表示春季的开始，是天文季节的起点，但气候上可能仍处于冬季（如黄河流域）。"
+      },
+      {
+        "chinese_name": "雨水",
+        "english_name": "Rain Water",
+        "japanese_name": "雨水 (うすい)",
+        "korean_name": "우수 (雨水)",
+        "vietnamese_name": "Vũ thủy",
+        "term_number": 2,
+        "solar_date": ["Feb.18", "Feb.19", "Feb.20"],
+        "astronomy": {
+          "sun_longitude": "330°",
+          "phenomenon": "太阳到达黄经330°，降水形式由雪转雨，东亚季风开始活跃。"
+        },
+        "climate_features": {
+          "general": "降水增多，气温回升快容易导致春困。",
+          "regional_variation": "南方进入春雨期，北方仍多晴燥。"
+        },
+        "health_tips": "注意调养脾胃，增加运动缓解春困。",
+        "description": "表示降水开始，雨量逐步增多。"
+      },
+      {
+        "chinese_name": "惊蛰",
+        "english_name": "the Waking of Insects",
+        "japanese_name": "啓蟄 (けいちつ)",
+        "korean_name": "경칩 (驚蟄)",
+        "vietnamese_name": "Kinh trập",
+        "term_number": 3,
+        "solar_date": ["Mar.5", "Mar.6", "Mar.7"],
+        "astronomy": {
+          "sun_longitude": "345°",
+          "phenomenon": "太阳到达黄经345°，地温回升促使冬眠动物苏醒。"
+        },
+        "climate_features": {
+          "general": "天气回暖，雨水增多，气候变化大。",
+          "regional_variation": "江南地区雷暴增多，华北偶有倒春寒。"
+        },
+        "health_tips": "补充水分，防寒保暖应对多变天气。",
+        "description": "春雷乍动，惊醒蛰伏的动物，气温回升较快，渐有春雷。"
+      },
+      {
+        "chinese_name": "春分",
+        "english_name": "the Spring Equinox",
+        "japanese_name": "春分 (しゅんぶん)",
+        "korean_name": "춘분 (春分)",
+        "vietnamese_name": "Xuân phân",
+        "term_number": 4,
+        "solar_date": ["Mar.20", "Mar.21", "Mar.22"],
+        "astronomy": {
+          "sun_longitude": "0°",
+          "phenomenon": "太阳直射赤道，全球昼夜平分，北半球正式进入春季。"
+        },
+        "climate_features": {
+          "general": "昼夜平分，气候温暖潮湿，关节炎进入多发期。",
+          "regional_variation": "华南进入前汛期，东北仍需供暖。"
+        },
+        "health_tips": "多食用清热解毒、温补阳气的食物。",
+        "description": "昼夜长短相等，黄经0度，太阳直射赤道，春分后北半球昼长夜短。"
+      },
+      {
+        "chinese_name": "清明",
+        "english_name": "Pure Brightness",
+        "japanese_name": "清明 (せいめい)",
+        "korean_name": "청명 (清明)",
+        "vietnamese_name": "Thanh minh",
+        "term_number": 5,
+        "solar_date": ["Apr.4", "Apr.5", "Apr.6"],
+        "astronomy": {
+          "sun_longitude": "15°",
+          "phenomenon": "太阳到达黄经15°，北斗七星斗柄指向东南方。"
+        },
+        "climate_features": {
+          "general": "气温回暖，阳气升腾，高血压进入多发期。",
+          "regional_variation": "江南烟雨朦胧，华北杨柳絮飘飞。"
+        },
+        "health_tips": "不宜进补，低盐饮食缓解高血压。",
+        "description": "天气晴朗明净，草木繁茂，是扫墓和踏青的传统时节。"
+      },
+      {
+        "chinese_name": "谷雨",
+        "english_name": "Grain Rain",
+        "japanese_name": "穀雨 (こくう)",
+        "korean_name": "곡우 (穀雨)",
+        "vietnamese_name": "Cốc vũ",
+        "term_number": 6,
+        "solar_date": ["Apr.19", "Apr.20", "Apr.21"],
+        "astronomy": {
+          "sun_longitude": "30°",
+          "phenomenon": "太阳到达黄经30°，降雨显著增加以利谷物生长。"
+        },
+        "climate_features": {
+          "general": "气候以晴暖为主，早晚时冷时热，易发生神经痛。",
+          "regional_variation": "华南进入前汛期高峰，西北仍需防霜冻。"
+        },
+        "health_tips": "适度保暖，多食蔬菜调理肠胃降火气。",
+        "description": "雨水增多，利于谷类作物生长，是播种移苗的关键时期。"
+      },
+      {
+        "chinese_name": "立夏",
+        "english_name": "the Beginning of Summer",
+        "japanese_name": "立夏 (りっか)",
+        "korean_name": "입하 (立夏)",
+        "vietnamese_name": "Lập hạ",
+        "term_number": 7,
+        "solar_date": ["May.5", "May.6", "May.7"],
+        "astronomy": {
+          "sun_longitude": "45°",
+          "phenomenon": "太阳到达黄经45°，标志着夏季的天文起点。"
+        },
+        "climate_features": {
+          "general": "连续五天日均气温达22度以上标志着夏季到来。",
+          "regional_variation": "岭南进入高温季，江淮流域偶有雷雨。"
+        },
+        "health_tips": "多喝水以退热降火滋养阴液。",
+        "description": "表示夏季的开始，但气候上可能仍处于春季（如黄河流域）。"
+      },
+      {
+        "chinese_name": "小满",
+        "english_name": "Lesser Fullness of Grain",
+        "japanese_name": "小満 (しょうまん)",
+        "korean_name": "소만 (小滿)",
+        "vietnamese_name": "Tiểu mãn",
+        "term_number": 8,
+        "solar_date": ["May.20", "May.21", "May.22"],
+        "astronomy": {
+          "sun_longitude": "60°",
+          "phenomenon": "太阳到达黄经60°，夏熟作物籽粒开始灌浆。"
+        },
+        "climate_features": {
+          "general": "气温明显升高，气候潮湿容易发生皮肤病。",
+          "regional_variation": "江南梅雨季临近，华北干热风频发。"
+        },
+        "health_tips": "清爽清淡饮食为主，注意清利湿热。",
+        "description": "夏熟作物籽粒开始灌浆饱满，但未完全成熟。"
+      },
+      {
+        "chinese_name": "芒种",
+        "english_name": "Grain in Beard",
+        "japanese_name": "芒種 (ぼうしゅ)",
+        "korean_name": "망종 (芒種)",
+        "vietnamese_name": "Mang chủng",
+        "term_number": 9,
+        "solar_date": ["Jun.5", "Jun.6", "Jun.7"],
+        "astronomy": {
+          "sun_longitude": "75°",
+          "phenomenon": "太阳到达黄经75°，有芒作物进入收获期。"
+        },
+        "climate_features": {
+          "general": "天气湿热，是一年中人最懒散的时候。",
+          "regional_variation": "华南龙舟水盛行，东北进入插秧季。"
+        },
+        "health_tips": "清热降火，充足睡眠，运动提高活力。",
+        "description": "麦类等有芒作物成熟，夏种开始，农事活动进入高峰期。"
+      },
+      {
+        "chinese_name": "夏至",
+        "english_name": "the Summer Solstice",
+        "japanese_name": "夏至 (げし)",
+        "korean_name": "하지 (夏至)",
+        "vietnamese_name": "Hạ chí",
+        "term_number": 10,
+        "solar_date": ["Jun.21", "Jun.22"],
+        "astronomy": {
+          "sun_longitude": "90°",
+          "phenomenon": "太阳直射北回归线（北纬23.5°），北半球白昼最长。"
+        },
+        "climate_features": {
+          "general": "天气炎热，人体阳气最旺，适合治疗冬季疾病。",
+          "regional_variation": "吐鲁番盆地出现极端高温，云贵高原多午后雷阵雨。"
+        },
+        "health_tips": "补充水分和维生素，增加盐分的摄入。",
+        "description": "太阳直射北回归线，北半球白昼最长，夏至后进入伏天。"
+      },
+      {
+        "chinese_name": "小暑",
+        "english_name": "Lesser Heat",
+        "japanese_name": "小暑 (しょうしょ)",
+        "korean_name": "소서 (小暑)",
+        "vietnamese_name": "Tiểu thử",
+        "term_number": 11,
+        "solar_date": ["Jul.6", "Jul.7", "Jul.8"],
+        "astronomy": {
+          "sun_longitude": "105°",
+          "phenomenon": "太阳到达黄经105°，进入初伏阶段。"
+        },
+        "climate_features": {
+          "general": "热浪袭人，时有暴雨光顾，消化道疾病多发。",
+          "regional_variation": "长江流域梅雨结束，华南进入台风季。"
+        },
+        "health_tips": "肠胃吸收力下降，注意饮食卫生。",
+        "description": "天气开始炎热，但未达最热，需防暑湿和暴雨。"
+      },
+      {
+        "chinese_name": "大暑",
+        "english_name": "Major Heat",
+        "japanese_name": "大暑 (たいしょ)",
+        "korean_name": "대서 (大暑)",
+        "vietnamese_name": "Đại thử",
+        "term_number": 12,
+        "solar_date": ["Jul.22", "Jul.23", "Jul.24"],
+        "astronomy": {
+          "sun_longitude": "120°",
+          "phenomenon": "太阳到达黄经120°，进入中伏最热阶段。"
+        },
+        "climate_features": {
+          "general": "酷热多雨，容易中暑，暑热夹湿常使人食欲不振。",
+          "regional_variation": "东南沿海受台风影响，西北持续干热。"
+        },
+        "health_tips": "充分休息，避免暴晒，清淡饮食。",
+        "description": "一年中最热的时期，需警惕高温和湿热天气。"
+      },
+      {
+        "chinese_name": "立秋",
+        "english_name": "Beginning of Autumn",
+        "japanese_name": "立秋 (りっしゅう)",
+        "korean_name": "입추 (立秋)",
+        "vietnamese_name": "Lập thu",
+        "term_number": 13,
+        "solar_date": ["Aug.7", "Aug.8", "Aug.9"],
+        "astronomy": {
+          "sun_longitude": "135°",
+          "phenomenon": "太阳到达黄经135°，标志着秋季的天文起点。"
+        },
+        "climate_features": {
+          "general": "气候渐变，人体仍感觉燥热难忍。",
+          "regional_variation": "东北初现凉意，华南延续酷暑。"
+        },
+        "health_tips": "多食酸味果蔬，养胃润肺以备秋凉。",
+        "description": "表示秋季的开始，但气候上可能仍处于夏季（如南方地区）。"
+      },
+      {
+        "chinese_name": "处暑",
+        "english_name": "End of Heat",
+        "japanese_name": "処暑 (しょしょ)",
+        "korean_name": "처서 (處暑)",
+        "vietnamese_name": "Xử thử",
+        "term_number": 14,
+        "solar_date": ["Aug.22", "Aug.23", "Aug.24"],
+        "astronomy": {
+          "sun_longitude": "150°",
+          "phenomenon": "太阳到达黄经150°，暑气逐渐消退。"
+        },
+        "climate_features": {
+          "general": "暑热余威明显，但气温开始慢慢转凉。",
+          "regional_variation": "华北秋高气爽，江南偶有秋老虎。"
+        },
+        "health_tips": "调整睡眠时间，饮食偏向清热安神。",
+        "description": "暑气逐渐消退，昼夜温差增大，进入气象意义上的秋季。"
+      },
+      {
+        "chinese_name": "白露",
+        "english_name": "White Dew",
+        "japanese_name": "白露 (はくろ)",
+        "korean_name": "백로 (白露)",
+        "vietnamese_name": "Bạch lộ",
+        "term_number": 15,
+        "solar_date": ["Sep.7", "Sep.8", "Sep.9"],
+        "astronomy": {
+          "sun_longitude": "165°",
+          "phenomenon": "太阳到达黄经165°，夜间水汽凝结成露。"
+        },
+        "climate_features": {
+          "general": "暑气渐消，白天气温适宜，夜间气温较低。",
+          "regional_variation": "东北初霜降临，华南仍需防暑。"
+        },
+        "health_tips": "滋阴益气的食品对身体大有益处。",
+        "description": "气温下降，夜间水汽凝结成露，是秋收秋种的高峰期。"
+      },
+      {
+        "chinese_name": "秋分",
+        "english_name": "Autumn Equinox",
+        "japanese_name": "秋分 (しゅうぶん)",
+        "korean_name": "추분 (秋分)",
+        "vietnamese_name": "Thu phân",
+        "term_number": 16,
+        "solar_date": ["Sep.22", "Sep.23", "Sep.24"],
+        "astronomy": {
+          "sun_longitude": "180°",
+          "phenomenon": "太阳直射赤道，全球昼夜再次平分。"
+        },
+        "climate_features": {
+          "general": "逐渐昼短夜长，每场秋雨都会带来明显降温。",
+          "regional_variation": "西北进入采暖季，华南晚稻进入灌浆期。"
+        },
+        "health_tips": "运动保健，针对性地治疗冬病。",
+        "description": "昼夜平分，黄经180度，太阳直射赤道，秋分后北半球昼短夜长。"
+      },
+      {
+        "chinese_name": "寒露",
+        "english_name": "Cold Dew",
+        "japanese_name": "寒露 (かんろ)",
+        "korean_name": "한로 (寒露)",
+        "vietnamese_name": "Hàn lộ",
+        "term_number": 17,
+        "solar_date": ["Oct.8", "Oct.9"],
+        "astronomy": {
+          "sun_longitude": "195°",
+          "phenomenon": "太阳到达黄经195°，露水增多且带寒意。"
+        },
+        "climate_features": {
+          "general": "热冷交替明显，人体阳气渐退，阴气渐生。",
+          "regional_variation": "东北可见初雪，江南进入桂花季。"
+        },
+        "health_tips": "饮食清淡柔润，起居注意保暖。",
+        "description": "气温更低，露水增多，北方可见霜冻，南方进入秋收秋种。"
+      },
+      {
+        "chinese_name": "霜降",
+        "english_name": "Frost's Descent",
+        "japanese_name": "霜降 (そうこう)",
+        "korean_name": "상강 (霜降)",
+        "vietnamese_name": "Sương giáng",
+        "term_number": 18,
+        "solar_date": ["Oct.23", "Oct.24"],
+        "astronomy": {
+          "sun_longitude": "210°",
+          "phenomenon": "太阳到达黄经210°，地面开始出现初霜。"
+        },
+        "climate_features": {
+          "general": "天气时有反复，人体逐渐感觉季节的肃杀和萧瑟。",
+          "regional_variation": "华北平原麦播结束，华南晚稻收割。"
+        },
+        "health_tips": "以平补为原则，注意肺的保养。",
+        "description": "天气渐冷，初霜出现，是秋收的最后阶段。"
+      },
+      {
+        "chinese_name": "立冬",
+        "english_name": "Beginning of Winter",
+        "japanese_name": "立冬 (りっとう)",
+        "korean_name": "입동 (立冬)",
+        "vietnamese_name": "Lập đông",
+        "term_number": 19,
+        "solar_date": ["Nov.7", "Nov.8"],
+        "astronomy": {
+          "sun_longitude": "225°",
+          "phenomenon": "太阳到达黄经225°，标志着冬季的天文起点。"
+        },
+        "climate_features": {
+          "general": "气温迅速下降，人体需要消耗大量的热能来维持体温。",
+          "regional_variation": "北方集中供暖启动，华南仍可见短袖。"
+        },
+        "health_tips": "多食用热量较高的膳食，增加维生素。",
+        "description": "表示冬季的开始，北方进入寒冷季节，南方气候转凉。"
+      },
+      {
+        "chinese_name": "小雪",
+        "english_name": "Minor Snow",
+        "japanese_name": "小雪 (しょうせつ)",
+        "korean_name": "소설 (小雪)",
+        "vietnamese_name": "Tiểu tuyết",
+        "term_number": 20,
+        "solar_date": ["Nov.22", "Nov.23"],
+        "astronomy": {
+          "sun_longitude": "240°",
+          "phenomenon": "太阳到达黄经240°，北方开始降雪。"
+        },
+        "climate_features": {
+          "general": "天气常是阴冷晦暗，抑郁症病情容易加重。",
+          "regional_variation": "东北暴雪预警频发，岭南进入干燥季。"
+        },
+        "health_tips": "增加户外活动调节心态，饮食多果蔬。",
+        "description": "开始降雪，但雪量不大，北方进入封冻季节。"
+      },
+      {
+        "chinese_name": "大雪",
+        "english_name": "Major Snow",
+        "japanese_name": "大雪 (たいせつ)",
+        "korean_name": "대설 (大雪)",
+        "vietnamese_name": "Đại tuyết",
+        "term_number": 21,
+        "solar_date": ["Dec.6", "Dec.7", "Dec.8"],
+        "astronomy": {
+          "sun_longitude": "255°",
+          "phenomenon": "太阳到达黄经255°，降雪范围向南扩展。"
+        },
+        "climate_features": {
+          "general": "气温持续降低，哮喘进入高发期。",
+          "regional_variation": "华北平原千里冰封，江南偶见雨夹雪。"
+        },
+        "health_tips": "进补的好时节，辅以适当锻炼增强体质。",
+        "description": "降雪量增多，地面可能积雪，需注意防寒保暖。"
+      },
+      {
+        "chinese_name": "冬至",
+        "english_name": "Winter Solstice",
+        "japanese_name": "冬至 (とうじ)",
+        "korean_name": "동지 (冬至)",
+        "vietnamese_name": "Đông chí",
+        "term_number": 22,
+        "solar_date": ["Dec.21", "Dec.22", "Dec.23"],
+        "astronomy": {
+          "sun_longitude": "270°",
+          "phenomenon": "太阳直射南回归线（南纬23.5°），北半球白昼最短。"
+        },
+        "climate_features": {
+          "general": "冷空气活动频繁，人体阴气较重。",
+          "regional_variation": "漠河出现极夜现象，海南岛仍可游泳。"
+        },
+        "health_tips": "防寒保暖，及时补充高热量食物。",
+        "description": "太阳直射南回归线，北半球白昼最短，冬至后进入数九寒天。"
+      },
+      {
+        "chinese_name": "小寒",
+        "english_name": "Minor Cold",
+        "japanese_name": "小寒 (しょうかん)",
+        "korean_name": "소한 (小寒)",
+        "vietnamese_name": "Tiểu hàn",
+        "term_number": 23,
+        "solar_date": ["Jan.5", "Jan.6", "Jan.7"],
+        "astronomy": {
+          "sun_longitude": "285°",
+          "phenomenon": "太阳到达黄经285°，进入三九严寒。"
+        },
+        "climate_features": {
+          "general": "常有寒潮暴发，会带来剧烈降温，易发生冻疮。",
+          "regional_variation": "新疆出现风吹雪，珠三角开启湿冷模式。"
+        },
+        "health_tips": "三九补一冬，来年无病痛。",
+        "description": "天气进一步变冷，但未达最冷，需警惕寒潮侵袭。"
+      },
+      {
+        "chinese_name": "大寒",
+        "english_name": "Major Cold",
+        "japanese_name": "大寒 (だいかん)",
+        "korean_name": "대한 (大寒)",
+        "vietnamese_name": "Đại hàn",
+        "term_number": 24,
+        "solar_date": ["Jan.20", "Jan.21"],
+        "astronomy": {
+          "sun_longitude": "300°",
+          "phenomenon": "太阳到达黄经300°，北半球接受日照时间达到冬季最低点。"
+        },
+        "climate_features": {
+          "general": "冷空气刺骨，气候相当寒冷，心血管疾病高发。",
+          "regional_variation": "青藏高原极端低温，东南沿海大风降温。"
+        },
+        "health_tips": "冬不藏精，夏必病温，注意节欲养脏。",
+        "description": "一年中最寒冷的时期，需注意防冻和心血管健康。"
+      }
+    ],
+    "notes": "以上信息仅供参考，具体情况请根据各地的气候和实际情况进行判断。",
+    "solar_terms_verse": "春雨惊春清谷天，夏满芒夏暑相连。秋处露秋寒霜降，冬雪雪冬小大寒。每月两节不变更，最多相差一两天。上半年来六廿一，下半年是八廿三。"
+}
